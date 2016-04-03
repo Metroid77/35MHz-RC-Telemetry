@@ -12,7 +12,7 @@ Begin every H and C file with an header like this:
  * Complier:        xxx
  * IDE:	            xxx
  *
- * GitHub Name: 	Metroid77
+ * GitHub Name:     Metroid77
  *
  ********************************************************************/
  
